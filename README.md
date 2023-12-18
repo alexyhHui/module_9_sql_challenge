@@ -4,7 +4,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 The `employeeSQL` file contains: `employee_query.sql` and `employee_table_schemata.sql`
 
 ## **Data Modeling**
-Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.
+Inspect the CSV files, and then sketch an Entity Relationship Diagram `employees_ERD.png` of the tables.
 ![image](https://raw.githubusercontent.com/alexyhHui/module_9_sql_challenge/main/employees_ERD.png)
 
 ## **Data engineering**
